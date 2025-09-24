@@ -1,4 +1,4 @@
-## 💬 Template README.md File Creator
+## 💬 README file creator by template
 
 <p>
     The script copies the template README.md the file to the current directory.
