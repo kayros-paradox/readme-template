@@ -2,6 +2,8 @@
 
 <p>
     The script copies the template README.md the file to the current directory.
+</p>
+<p>
     Example of use:
 </p> 
 
