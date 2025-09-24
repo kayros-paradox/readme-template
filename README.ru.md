@@ -8,7 +8,7 @@
 </p>
 
 ```bash
-sh <path>/create-readme.sh
+sh <путь к сприпту>/create-readme.sh
 ```
 
 <br />
