@@ -1,14 +1,12 @@
-## 📟 // TODO: project name
+## 💬 Template README.md File Creator
 
-### // TODO: section
-
-<p>// TODO: description</p> 
+<p>
+    The script copies the template README.md the file to the current directory.
+</p> 
 
 ```bash
-// TODO: bash code
+sh <path>/create-readme.sh
 ```
 
 <br />
-
-<p>// TODO: description</p>
 

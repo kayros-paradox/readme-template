@@ -1,2 +1,2 @@
 #!/bin/bash
-cp $(dirname "$(realpath "$0")")/README.md . 
+cp $(dirname "$(realpath "$0")")/readme/README.md . 
